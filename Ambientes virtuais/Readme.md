@@ -153,7 +153,10 @@ python calculadora.py
 
 ---
 
-## 🇪🇸➡🇧🇷 Projeto 3: Tradutor de Espanhol para Português do Brasil
+## 🇪🇸➡🇧🇷 Projeto 3: Tradutor de Espanhol para Português do Brasil 
+> [!IMPORTANT]
+>### <mark>***Funciona somente com internet, ou seja, online***</mark>
+> <mark>pip install legacy-cgi</mark>   <<-- Se der erro instale  
 
 Volte para fora da pasta:
 
@@ -179,8 +182,6 @@ python -m venv venv
 ```powershell
 pip install googletrans==4.0.0-rc1
 ```
-
-> Essa versão funciona melhor offline.
 
 ### 3.4 - Criar o arquivo de tradução
 
