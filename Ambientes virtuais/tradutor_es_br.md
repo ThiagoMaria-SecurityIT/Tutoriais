@@ -1,6 +1,8 @@
 ## 🇪🇸➡🇧🇷 Projeto 3: Tradutor de Espanhol para Português do Brasil 
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
+>### <mark>***Funciona somente com internet, ou seja, online***</mark>
+> <mark>pip install legacy-cgi</mark>   <<-- Se der erro instale  
 >Esse tutorial faz parte do Tutorial Ambientes virtuais e conta com mais 2 tutoriais simples com esse. \
 Check it out: 
  [Acesse a pasta "Ambientes virtuais"](https://github.com/ThiagoMaria-SecurityIT/Tutoriais/tree/main/Ambientes%20virtuais )
