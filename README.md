@@ -8,11 +8,14 @@ Os tutoriais são pensados para iniciantes e intermediários, com exemplos prát
 
 Aqui estão os tutoriais disponíveis. Clique nos links abaixo para acessar diretamente:
 
+- **Converter Vídeo para MP3**
+   - [Converter seu Vídeo para MP3](https://github.com/ThiagoMaria-SecurityIT/Tutoriais/tree/main/Python/convert-video-to-mp3 ) 
+ 
 - **Ambientes Virtuais em Python**
-- [Ambientes virtuais](https://github.com/ThiagoMaria-SecurityIT/Tutoriais/tree/main/Ambientes%20virtuais )
-   - [Gerador de Senhas Aleatórias](./Ambientes%20virtuais/gerador_senhas.md)
-   - [Calculadora Financeira Simples](./Ambientes%20virtuais/calculadora_financeira.md)
-   - [Tradutor de Espanhol para Português do Brasil](./Ambientes%20virtuais/tradutor_es_br.md)
+   - [Ambientes virtuais](https://github.com/ThiagoMaria-SecurityIT/Tutoriais/tree/main/Ambientes%20virtuais)
+      - [Gerador de Senhas Aleatórias](./Ambientes%20virtuais/gerador_senhas.md)
+      - [Calculadora Financeira Simples](./Ambientes%20virtuais/calculadora_financeira.md)
+      - [Tradutor de Espanhol para Português do Brasil](./Ambientes%20virtuais/tradutor_es_br.md)
 
 ## Como Usar
 
