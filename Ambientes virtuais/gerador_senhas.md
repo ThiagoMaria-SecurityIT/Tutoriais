@@ -1,5 +1,10 @@
 ## 🌐 Projeto 1: Gerador de Senhas Aleatórias
 
+> [!IMPORTANT]  
+>Esse tutorial faz parte do Tutorial Ambientes virtuais e conta com mais 2 tutoriais simples com esse. \
+Check it out: 
+ [Acesse a pasta "Ambientes virtuais"](https://github.com/ThiagoMaria-SecurityIT/Tutoriais/tree/main/Ambientes%20virtuais ) 
+ 
 ### 1.1 - Criar o ambiente virtual
 
 Dentro da pasta `gerador_senhas`:
