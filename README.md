@@ -1,23 +1,3 @@
-## 📚 Tutoriais de Programação
-
-Este repositório contém uma coleção de tutoriais sobre diferentes temas de programação.  
-O foco principal é em **Python**, mas também podem ser adicionados tutoriais de outras linguagens e tecnologias conforme necessário.
-
-Os tutoriais são pensados para iniciantes e intermediários, com exemplos práticos e passo a passo claro.
-
---- 
-### 📦 Pastas Disponíveis
-
-Confira as pastas para ver os tutoriais disponíveis 
-
---- 
-
-### ✅ Como contribuir
-
-Se você tem um tutorial legal ou quer melhorar algum já existente, fique à vontade para abrir uma issue ou pull request!
-
-
-
 # Tutoriais de Programação
 
 Este repositório contém tutoriais sobre diferentes temas de programação. O foco principal é em **Python**, mas também podem ser adicionados tutoriais de outras linguagens e tecnologias conforme necessário.
@@ -35,18 +15,17 @@ Aqui estão os tutoriais disponíveis. Clique nos links abaixo para acessar dire
 
 ## Como Usar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-
-2. Navegue até a pasta desejada:
+1. Navegue até a pasta desejada:
    ```bash
    cd SeuRepositorio/Ambientes%20virtuais/gerador_senhas
    ```
 
-3. Siga as instruções no arquivo `README.md` dentro da pasta específica.
+2. Siga as instruções no arquivo `README.md` ou siga o tutorial dentro da pasta específica.
 
-## Contribuição
+### ✅ Como contribuir
 
-Se você quiser contribuir com mais tutoriais ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request!
+Se você tem um tutorial legal ou quer melhorar algum já existente, fique à vontade para abrir uma issue ou enviar um pull request (ou me chame nas redes sociais)!
+
+in/thiago-cequeira-99202239
+https://huggingface.co/settings/profile
+
