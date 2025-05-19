@@ -15,11 +15,8 @@ Aqui estão os tutoriais disponíveis. Clique nos links abaixo para acessar dire
 
 ## Como Usar
 
-1. Navegue até a pasta desejada:
-   ```bash
-   cd SeuRepositorio/Ambientes%20virtuais/gerador_senhas
-   ```
-
+1. Navegue até a pasta desejada
+   
 2. Siga as instruções no arquivo `README.md` ou siga o tutorial dentro da pasta específica.
 
 ### ✅ Como contribuir
