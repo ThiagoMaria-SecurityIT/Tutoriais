@@ -11,7 +11,11 @@ __Então o que você precisa:__
      pyinstaller --onefile <seu_script.py>
  ```
 ## 📌 Sumário Rápido  
-- [O que você precisa](#o-que-você-precisa) [O que você precisa](#o-que-voce-precisa) [O que você precisa](#-o-que-voce-precisa) [Seção 1]<a id="manual-anchor"></a>
+- [O que você precisa](#o-que-você-precisa)
+- [O que você precisa](#o-que-voce-precisa)
+- [O que você precisa](#-o-que-voce-precisa)
+- [Seção 1](manual-anchor)
+- 
 - [Introdução](#-introdução)
 - [Ferramentas populares](#ferramentas-populares)  
   - [PyInstaller](#1-pyinstaller-recomendado)  
