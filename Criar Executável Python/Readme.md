@@ -11,7 +11,7 @@ __Então o que você precisa:__
      pyinstaller --onefile <seu_script.py>
  ```
 ## 📌 Sumário Rápido  
-- [O que você precisa](#o-que-você-precisa)
+- [O que você precisa](#o-que-você-precisa) [O que você precisa](#o-que-voce-precisa) [O que você precisa](#-o-que-voce-precisa) [Seção 1]<a id="manual-anchor"></a>
 - [Introdução](#-introdução)
 - [Ferramentas populares](#ferramentas-populares)  
   - [PyInstaller](#1-pyinstaller-recomendado)  
@@ -24,7 +24,7 @@ __Então o que você precisa:__
 - [Tabela comparativa](#-tabela-de-resumo)  
 
 ---
-
+<a id="manual-anchor"></a>
 ## 🛠️ O que você precisa  
 Antes de começar, certifique-se de ter:  
 - [Python 3.12.4 ou superior](#-o-que-você-precisa)
@@ -358,3 +358,4 @@ Espero que este guia tenha sido útil para você. Agora você está pronto para 
 Espero que este tuto tenha sido útil para você. Agora você está pronto para transformar seus scripts Python em executáveis e distribuí-los de forma eficiente.
 
 by: Thiago Maria
+
