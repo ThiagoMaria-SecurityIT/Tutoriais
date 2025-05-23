@@ -11,9 +11,9 @@ __Então o que você precisa:__
      pyinstaller --onefile <seu_script.py>
  ```
 ## 📌 Sumário Rápido  
-- [O que você precisa](#-o-que-você-precisa)
+- [O que você precisa](#-o-que-voc%C3%AA-precisa)
 - [Introdução](#-introdução)
-- [Ferramentas populares](#-ferramentas-populares)  
+- [Ferramentas populares](#ferramentas-populares)  
   - [PyInstaller](#1-pyinstaller-recomendado)  
   - [cx_Freeze](#2-cx_freeze)  
   - [Nuitka](#3-nuitka)  
