@@ -112,7 +112,7 @@ pyinstaller --onefile youtube_downloader.py
 ## **4. Additional Build Options**  
 
 ### **A) Adding an Icon**  
-If you have an `.ico` file (add it to the folder your/project/dist - dist appears only after pip install PyInstall), use:  
+If you have an `.ico` file (add it to the folder your/project/dist - dist appears only after pip install pyinstaller), use:  
 ```bash
 pyinstaller --onefile --icon=your_icon.ico youtube_downloader.py
 ```
