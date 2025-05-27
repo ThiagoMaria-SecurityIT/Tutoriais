@@ -43,7 +43,7 @@ Designed for users who need reliable password generation without unnecessary com
   ## Technical Specifications
 - **Language**: Python 3.8+
 - **Dependencies**: 
-  - Standard Library Only (`tkinter`, `secrets`, `pyperclip`)
+  - Standard Libraries Only (`tkinter`, `secrets`, `pyperclip`)
 - **Platform Support**: Windows, macOS, Linux
 - **Security Architecture**:
   - No network connectivity
@@ -76,7 +76,7 @@ Designed for users who need reliable password generation without unnecessary com
 ---
 ## ⚡ Quick Start  
 1. **Download**: Click "Code" → "Download ZIP"  
-2. **Run**: Double-click `PassGenPython.py` (needs [Python](https://www.python.org/downloads/))
+2. **Run**: Double-click `main.py` (needs [Python](https://www.python.org/downloads/) and **pyperclip** (pip install pyperclip))
    
 ## Alternative Installation 
 ```bash
@@ -86,8 +86,11 @@ git clone https://github.com/ThiagoMaria-SecurityIT/SecurePassGenerator.git
 # Navigate to project directory
 cd SecurePassGenerator
 
+# Install pyperclip
+pip install pyperclip
+
 # Run the application
-python PassGenPython.py
+python main.py
 ``` 
 ---
 ## Usage Guide
