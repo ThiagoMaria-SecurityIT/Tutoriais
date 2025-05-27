@@ -27,5 +27,5 @@ A cryptographically secure password generator with GUI, built with Python and tk
 4. Next step:  
  **Reproducible Builds**: SHA-256 checksums provided for releases.
 
- *Obs.: Created with the help of AI - DeepSeek
+ *Obs.: Created with the help of AI - DeepSeek  
         May contain errors, don't use for production. Use it for tutorias, ok?
