@@ -17,6 +17,8 @@ Aqui estão os tutoriais disponíveis. Clique nos links abaixo para acessar dire
       - [Calculadora Financeira Simples](./Ambientes%20virtuais/calculadora_financeira.md)
       - [Tradutor de Espanhol para Português do Brasil](./Ambientes%20virtuais/tradutor_es_br.md)
 
+- **Tem outros tutorias disponíveis, só pesquisar no repo**
+
 ## Como Usar
 
 1. Navegue até a pasta desejada
