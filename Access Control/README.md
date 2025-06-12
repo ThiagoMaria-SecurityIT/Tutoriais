@@ -4,6 +4,26 @@
 
 This Python application provides a comprehensive solution for managing both physical and logical access control within an organization. The system helps administrators regulate who can access specific physical locations (like offices and secure areas) and digital resources (such as systems, networks, and sensitive data).
 
+###  Access Control Print Screen - Physical and Logical 
+
+<table>
+  <tr>
+    <td><img src="images/im1.png" alt="1" width="800"></td>
+    <td><img src="images/im2.png" alt="2" width="800"></td>
+    <td><img src="images/im3.png" alt="3" width="800"></td>
+    <td><img src="images/im4.png" alt="4" width="800"></td>
+    <td><img src="images/im5.png" alt="5" width="800"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">1- Physical Access Control  </td>
+    <td style="text-align: center;">2- Door Management</td>
+    <td style="text-align: center;">3- Logical Access Control</td>
+    <td style="text-align: center;">4- Access Logs</td>
+    <td style="text-align: center;">5- Badge Reader (Simulation)</td>
+  </tr>
+</table>
+
+
 ## Key Features - with data export functionality (CSV)
 
 ### Physical Access Control
@@ -69,8 +89,14 @@ The system's dual approach to access control helps organizations meet various co
 ## Support
 
 For any questions or issues, please open an issue in this repository.
-This is not a tutorial, I will create a repo for non tutorial codes
 
+## Future implementation
+
+I will change some of the featurtes in next months:
+
+* The name of tab Employee Management to Physical Access Control.
+* Actual logs are for Physical Access and Logical Access but not for the creation of rules - I will implement that too.
+   
 ## Contact: 
 
 🤵🏽[in/thiago-cequeira-99202239](https://www.linkedin.com/in/thiago-cequeira-99202239/) \
