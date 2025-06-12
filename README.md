@@ -29,6 +29,6 @@ Aqui estão os tutoriais disponíveis. Clique nos links abaixo para acessar dire
 
 Se você tem um tutorial legal ou quer melhorar algum já existente, fique à vontade para abrir uma issue ou enviar um pull request (ou me chame nas redes sociais)!
 
-🤵🏽[in/thiago-cequeira-99202239](https://www.linkedin.com/in/thiago-cequeira-99202239/) \
-🤗https://huggingface.co/settings/profile
+🤵🏽[LinkedIn: thiago-cequeira-99202239](https://www.linkedin.com/in/thiago-cequeira-99202239/) \
+🤗[Hugging Face: ThiSecur](https://huggingface.co/ThiSecur)
 
