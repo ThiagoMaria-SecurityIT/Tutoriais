@@ -1,9 +1,13 @@
 # 🖼️ ICON Image Format Converter  
 A simple GUI-based tool to convert between SVG, PNG, JPG, JPEG, and ICO formats.
 
-> ⚠️ **Attention (Windows Users)**  
+![image](https://github.com/user-attachments/assets/7a08c015-791f-460a-ae69-9a590d4b8c93)  
+
+> [!WARNING]
+> ⚠️ **Attention Windows Users**  
 > CairoSVG requires native libraries on Windows.  
-> **Fix**: Download the [PyGObject All-in-One Installer](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases) and install GTK3 runtime to get Cairo.
+> **Fix**: Download the [PyGObject All-in-One Installer](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases) and install GTK3 runtime to get Cairo.   
+> Click in the Tutorial to FIX: [3. Windows Fix: Install Cairo](3-windows-fix-install-cairo)   
 
 ---
 
@@ -28,8 +32,9 @@ cd image-converter
 pip install cairosvg pillow svgwrite
 ```
 
-### 3. Windows Fix: Install Cairo
-> **Critical Step for Windows Users!**
+### 3. Windows Fix: Install Cairo  
+> [!IMPORTANT]   
+> **Critical Step for Windows Users!**  
 
 #### Option 1: Use PyGObject Installer (Recommended)
 1. Download the **PyGObject Installer** for Windows:
