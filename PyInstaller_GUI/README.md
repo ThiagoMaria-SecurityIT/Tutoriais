@@ -125,14 +125,17 @@ Feel free to fork this repository, submit pull requests, or open issues if you f
 
 This project is open-source and available under the [MIT License](LICENSE). (You might want to create a `LICENSE` file in your repository if you choose this.)
 
+## AI in the code 
+The code ```pyinstaller_gui.py ```was created with the help of **Manus** AI and **DeepSeek**.  
+
 ## About the Author   
 
-**Thiago Maria - From Brazil to the World 🌎**  
+**Thiago Maria | From Brazil to the World 🌎**  
 *Senior Security Information Professional | Passionate Programmer | AI Developer*
 
 With a professional background in security analysis and a deep passion for programming, I created this repo share some knowledge about security information, cybersecurity, Python and development practices. Most of my work here focuses on implementing security-first approaches in developer tools while maintaining usability.
 
-Lets Connect:
+## Lets Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thiago-cequeira-99202239/)  
 [![Hugging Face](https://img.shields.io/badge/🤗Hugging_Face-AI_projects-yellow)](https://huggingface.co/ThiSecur)
