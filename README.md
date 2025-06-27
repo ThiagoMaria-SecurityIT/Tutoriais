@@ -24,6 +24,7 @@ Aqui estão os tutoriais disponíveis. Clique nos links abaixo para acessar dire
    - [Intermediário: Pyinstaller GUI](https://github.com/ThiagoMaria-SecurityIT/Tutoriais/tree/main/PyInstaller_GUI)
 
 - **Tem outros tutorias disponíveis, só pesquisar no repo**
+   - [Intermediário em Inglês: Chat com duas IAs ao mesmo tempo](https://github.com/ThiagoMaria-SecurityIT/Tutoriais/blob/main/ollama-chat-ui/README.md) 
 
 ## ATENÇÃO
 
