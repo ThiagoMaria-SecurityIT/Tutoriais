@@ -3,7 +3,7 @@
    ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)  ![License](https://img.shields.io/badge/license-MIT-green)   
 A lightweight desktop GUI for interacting with Ollama models, supporting both single and multi-model conversations.  
 >[!IMPORTANT]  
->Ollama must be installed and running locally   
+>Ollama must be installed and running locally with at least one model (for multi-model: 2 models installed in your Ollama are recommended)   
 >```
 > ollama serve
 >```  
