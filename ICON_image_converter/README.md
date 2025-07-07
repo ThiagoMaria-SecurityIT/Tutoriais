@@ -36,7 +36,7 @@ This Python application provides a graphical interface for converting images bet
 - Pillow library
 
 ## How to Use
-1. $\color{red}{\mathrm{Check\ the\ Output\ Format\ FIRST\ Ico,\ Jpeg,\ PNG,\ Jpg,\ Webp }}$    ![image](https://github.com/user-attachments/assets/773c2889-84f2-4ca8-bb0e-b5e157617c83)
+1. $\color{red}{\mathrm{Check\ the\ Output\ Format\ FIRST:\ Ico,\ Jpeg,\ PNG,\ Jpg,\ Webp }}$    ![image](https://github.com/user-attachments/assets/773c2889-84f2-4ca8-bb0e-b5e157617c83)
 
 2. Select Input File (If you selected the file first, just select it again after choosing the output format)
 3. Choose output location
