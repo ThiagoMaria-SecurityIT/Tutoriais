@@ -39,7 +39,7 @@ A lightweight desktop GUI for interacting with Ollama models, supporting both si
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ollama-chat-ui.git
+   git clone https://github.com/ThiagoMaria-SecurityIT/Tutoriais/tree/main/ollama-chat-ui
    cd ollama-chat-ui
    ```
 
