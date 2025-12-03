@@ -41,8 +41,11 @@ A lightweight desktop GUI for interacting with Ollama models, supporting both si
 
 2. Install dependencies (a virtual environment is reccomended):
    ```bash
-   pip install ollama tkinter
+   pip install ollama
    ```
+     
+  > [!NOTE]    
+  > This project uses Tkinter, which is included with standard Python (3.0+). No separate installation is needed in most cases, though older systems may require installing python3-tk (e.g., via sudo apt install python3-tk on Debian/Ubuntu).     
 
 3. Ensure Ollama is running:
    ```bash
@@ -54,7 +57,7 @@ A lightweight desktop GUI for interacting with Ollama models, supporting both si
    ollama pull deepseek-r1:1.5b
    ```
 ## How to run
-1. After install, just run the main code: python main.py
+1. After install ollama and at least one model, just run the main code: python main.py
 
 ### Interface Controls:
 - **Mode Selection**: Toggle between single and multi-chat modes
