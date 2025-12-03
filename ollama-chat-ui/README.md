@@ -37,11 +37,7 @@ A lightweight desktop GUI for interacting with Ollama models, supporting both si
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ThiagoMaria-SecurityIT/Tutoriais/tree/main/ollama-chat-ui
-   cd ollama-chat-ui
-   ```
+1. Download or copy the code `main.py`
 
 2. Install dependencies (a virtual environment is reccomended):
    ```bash
